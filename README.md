@@ -1,13 +1,8 @@
 MisteioCloudinaryBundle
 =========
-[![Latest Stable Version](https://poser.pugx.org/misteio/cloudinary-bundle/v/stable)](https://packagist.org/packages/misteio/cloudinary-bundle)
-[![Latest Unstable Version](https://poser.pugx.org/misteio/cloudinary-bundle/v/unstable)](https://packagist.org/packages/misteio/cloudinary-bundle) 
-[![License](https://poser.pugx.org/misteio/cloudinary-bundle/license)](https://packagist.org/packages/misteio/cloudinary-bundle)
-[![Build Status](https://travis-ci.org/misteio/CloudinaryBundle.svg?branch=master)](https://travis-ci.org/misteio/CloudinaryBundle)
-[![Coverage Status](https://coveralls.io/repos/misteio/CloudinaryBundle/badge.svg?branch=master&service=github)](https://coveralls.io/github/misteio/CloudinaryBundle?branch=master)
+Fork from MisteioCloudinaryBundle to use Symfony3
 
-MisteioCloudinaryBundle is a Symfony2 Bundle forked from laravel4-cloudinary (thanks [Teeplus](https://github.com/teepluss/laravel4-cloudinary)) and cloudinary-bundle (thanks [Speicher210](https://github.com/Speicher210/CloudinaryBundle)). You can use it as a service, and some extends are implemented for Twig. 
-[Cloudinary Library v1.0.11](http://cloudinary.com/documentation/php_integration).
+See [MisteioCloudinaryBundle](https://github.com/misteio/CloudinaryBundle)
 
 ## Install
 
